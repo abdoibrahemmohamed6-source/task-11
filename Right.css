@@ -1,0 +1,46 @@
+.main-right-div {
+    margin-top: 70px;
+    margin-left: 60px;
+}
+.h1-div {
+    width: 450px;
+}
+.h1-div h1 {
+    font-size: 32px;
+    font-weight: 700px bold;
+    color: rgba(2, 41, 89, 1);
+    
+    /* margin-top: 30px; */
+}
+.h1-div p {
+    width: 450px;
+    color: rgba(150, 153, 170, 1);
+    font-size:16px;
+    font-weight: 700px bold;
+    padding-bottom: 20px;
+    margin-top: 10px;
+}
+.input {
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-top: 15px;
+    
+}
+.input input {
+    padding: 10px; 
+    border-radius: 9px;
+    
+}
+.button-div {
+    display: flex;
+    justify-content: end;
+    margin-top: 30px;
+}
+.button-div button {
+    padding: 10px;
+    background-color: rgba(2, 41, 89, 1);
+    color: white;
+    border-radius: 8px;
+}
